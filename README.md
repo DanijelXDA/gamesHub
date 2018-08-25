@@ -1,7 +1,7 @@
 # gamesHub Source code
 <br/>
 <center>
-<img src="anim.gif">
+<img src="logo.gif">
 </center><br/>
 What's new in this release: <br />
     -> Version Gamify<br />
